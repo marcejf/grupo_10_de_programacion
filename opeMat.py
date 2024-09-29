@@ -24,10 +24,15 @@ else:
 
 #potencia
 potencia = num1 ** num2 
-
-#radicacion 
+8#radicacion 
  
 #radicacion 
 radicacion = num1 ** (1/num2) 
 
-#print("el resultado de la suma es 
+#print("el resultado de la suma es /`" ,suma ""
+print(f"el resultado de la suma es '´{suma}'")
+print(f"el resultado de la resta es :'{resta}'")
+print(f"el resultado de la multiplicasion es : '{multiplicasion}'")
+print(f"el resultado de la division es :'{division}'")
+print(f"el resultado de la potencia es : '{potencia}'")
+print(f"el rsultado de la radicasion es : '{radicacion}'")
